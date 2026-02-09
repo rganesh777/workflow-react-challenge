@@ -1,4 +1,4 @@
-# Workflow Builder - Frontend Challenge
+# Workflow Builder
 
 A visual workflow builder application where users create workflows with different node types. Your task is to implement **form validation** and **auto-save functionality**.
 
